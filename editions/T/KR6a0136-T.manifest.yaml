@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0136/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0136/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 頻毘娑羅王詣佛供養經
+  identifiers:
+    krp: KR6a0136
+    cbeta: T02n0133
+    cbeta_old_id: T02n0133
+    authorityid: CA0002408
+    json_key: T0133
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0133.xml
+    old_id: T02n0133
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0136_000-T.yaml, hash: 'sha256:e0db4bc6708131203a1ad80a2fb0a5b225ab8dc50c36bb6a89b801aff97cd022'}
+  - {seq: 1, filename: KR6a0136_001-T.yaml, hash: 'sha256:21aa7cd54f1c3ae91946923286b50f0d0a2fffe4a35f83adfbb12495f95360b7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0136_000-T.markers.yaml, hash: 'sha256:02d050b02a7cf39c55a4dc89ee6446853048e3caa0a2b8e77a22a140ebee18f7'}
+  - {seq: 1, role: markers, filename: assets/KR6a0136_001-T.markers.yaml, hash: 'sha256:6ea197f0e6148439674608caef6e56523a6c5148c45d9c9b9a5cfb4e6f51dd16'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0136_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1996
+  label: 頻毘娑羅王詣佛供養經
+  type: juan
+  level: 1
+hash: sha256:0cb803d80ec91cbfaf18a55ed78b8edbd10ef127b842396957de949572473fb9

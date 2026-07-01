@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0136/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 頻毘娑羅王詣佛供養經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0133.xml
+    old_id: T02n0133
+hash: sha256:e0db4bc6708131203a1ad80a2fb0a5b225ab8dc50c36bb6a89b801aff97cd022

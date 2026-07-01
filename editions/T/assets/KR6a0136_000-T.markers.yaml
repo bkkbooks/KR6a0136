@@ -1,0 +1,31 @@
+canonical_identifier: bkk:krp/KR6a0136/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6a0136_T_000-0855c, 'n': 0855c, ed: T, source_xml_id: T02.0133.0855c}
+  - {type: line-break, offset: 0, content: '', id: KR6a0136_T_000-0855c01, ed: T, 'n': 0855c01}
+  - {type: line-break, offset: 0, content: '', id: KR6a0136_T_000-0855c02, ed: T, 'n': 0855c02}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6a0136_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6a0136_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6a0136_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6a0136_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '3', id: KR6a0136_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '3', id: KR6a0136_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '[', id: KR6a0136_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6a0136_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: o, id: KR6a0136_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: ., id: KR6a0136_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: '1', id: KR6a0136_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: '2', id: KR6a0136_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: '5', id: KR6a0136_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: (, id: KR6a0136_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: '3', id: KR6a0136_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '4', id: KR6a0136_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: ., id: KR6a0136_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '5', id: KR6a0136_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ), id: KR6a0136_T_000-bkkpn19}
+  - {type: punctuation, offset: 0, content: ']', id: KR6a0136_T_000-bkkpn20}
+  - {type: line-break, offset: 0, content: '', id: KR6a0136_T_000-0855c03, ed: T, 'n': 0855c03}
+  body: []
+  back: []
+hash: sha256:02d050b02a7cf39c55a4dc89ee6446853048e3caa0a2b8e77a22a140ebee18f7
