@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0136_000.yaml, hash: 'sha256:e0db4bc6708131203a1ad80a2fb0a5b225ab8dc50c36bb6a89b801aff97cd022'}
-  - {seq: 1, filename: KR6a0136_001.yaml, hash: 'sha256:1a19e8f86b8aea29e255621fe83a4103085aad7c888e76cfa6b526de20b6b183'}
+  - {seq: 1, filename: KR6a0136_001.yaml, hash: 'sha256:21aa7cd54f1c3ae91946923286b50f0d0a2fffe4a35f83adfbb12495f95360b7'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0136_001.markers.yaml, hash: 'sha256:a2a34742a4d565caf0ad468be01204627fa0bb1756d79d442008ac5e75d83830'}
+  - {seq: 0, role: markers, filename: assets/KR6a0136_000.markers.yaml, hash: 'sha256:cbde8c8ff6926261007bf3bb96e9afe422c408465d0f2913a6b35b35753fa3f3'}
+  - {seq: 1, role: markers, filename: assets/KR6a0136_001.markers.yaml, hash: 'sha256:45712f2ebe68e87c1253f4dab04dd2112a391c2f2e7b9a1d9db6fef9a53fe46a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 頻毘娑羅王詣佛供養經
   type: juan
   level: 1
-hash: sha256:f8c139592ca08d2a3be18c7ee6e8a4fac41a08e14bcceb192f98ba17c35765a9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bc7e85b08fa26478dbccdbde725c9ac7313a3e10ccb0c73f05d576052a174497
