@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0136_000-T.yaml, hash: 'sha256:e0db4bc6708131203a1ad80a2fb0a5b225ab8dc50c36bb6a89b801aff97cd022'}
   - {seq: 1, filename: KR6a0136_001-T.yaml, hash: 'sha256:21aa7cd54f1c3ae91946923286b50f0d0a2fffe4a35f83adfbb12495f95360b7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0136_000-T.markers.yaml, hash: 'sha256:02d050b02a7cf39c55a4dc89ee6446853048e3caa0a2b8e77a22a140ebee18f7'}
+  - {seq: 0, role: markers, filename: assets/KR6a0136_000-T.markers.yaml, hash: 'sha256:379260d5e9cec32ec2d625565f32ede0485d85bb375a72a8abed9c4319f41df0'}
   - {seq: 1, role: markers, filename: assets/KR6a0136_001-T.markers.yaml, hash: 'sha256:6ea197f0e6148439674608caef6e56523a6c5148c45d9c9b9a5cfb4e6f51dd16'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 頻毘娑羅王詣佛供養經
   type: juan
   level: 1
-hash: sha256:0cb803d80ec91cbfaf18a55ed78b8edbd10ef127b842396957de949572473fb9
+hash: sha256:73fff82f469d85d7d06838876899a016c2e278db32dac1b26f971f4dd586ba78
